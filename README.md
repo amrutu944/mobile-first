@@ -7,8 +7,8 @@
 
 ## 🚀 Live Demo & Repository Links
 
-- **Live Hosted Application:** [https://focusboard-task-management.vercel.app](https://focusboard-task-management.vercel.app) *(or your deployed Vercel/Netlify URL)*
-- **GitHub Repository:** [https://github.com/your-username/focusboard](https://github.com/your-username/focusboard)
+- **Live Hosted Application:** [https://mobile-first-production.up.railway.app](https://mobile-first-production.up.railway.app) *(or Vercel: https://mobile-first-focusboard.vercel.app)*
+- **GitHub Repository:** [https://github.com/amrutu944/mobile-first](https://github.com/amrutu944/mobile-first)
 
 ---
 
@@ -177,8 +177,8 @@ npm run preview
 
 ## 📝 Submission Details
 
-- **Candidate Name:** MobileFirst Candidate
+- **Candidate Name:** Amruth
 - **Framework:** React 19 + Vite
-- **Repository:** Public on GitHub
+- **Repository:** https://github.com/amrutu944/mobile-first
 - **Deployment:** Vercel / Netlify
 - **Known Limitations:** None. All assignment requirements are fully implemented.
